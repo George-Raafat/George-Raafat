@@ -19,7 +19,7 @@
 - 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
 - 🔍 Interested in **Problem Solving** and **Data Management**
 - 📫 Reach me at: [georgexraafat@gmail.com](mailto:georgexraafat@gmail.com)
-- 📄 Check my [Resume](https://github.com/5XGeorgeX5/My-Resume)
+- 📄 Check my [Resume](https://github.com/5XGeorgeX5/5XGeorgeX5/blob/main/My-Resume.pdf)
 
 🏆 certificates:
 -  [ALX Software Engineering Program](https://intranet.alxswe.com/certificates/en8H5ZG72p)
@@ -81,67 +81,31 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<!--   <a href="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YassenAli&theme=radical&hide_border=true" alt="Yassin's GitHub Streak" />
-    </a> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=5XGeorgeX5&show_icons=true&theme=radical&hide_border=true" alt="Yassin's GitHub Stats" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YassenAli&custom_title=Yassin's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Yassin's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5XGeorgeX5&custom_title=George's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="George's Activity Graph" />
 </div>
 
-<a> 
-  <a href="https://denvercoder1-github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&count_private=true&theme=radical&hide_border=true">
-    <img alt="Yassin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=YassenAli&show_icons=true&count_private=true&theme=radical" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/YassenAli">
-    <img alt="Yassin's Top Languages by Repo" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassenAli&langs_count=8&layout=compact&theme=radical" height="192px" width="49.5%"/>
-  </a>
+<a href="https://github.com/5XGeorgeX5">
+  <img alt="George's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=5XGeorgeX5&theme=radical" width="49.5%" />
+  <img alt="George's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=5XGeorgeX5&show_icons=true&count_private=true&theme=radical" height="192px" width="49.5%"/>
 </a>
-
-<a href="https://github.com/YassenAli">
-  <img alt="Yassin's Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YassenAli&theme=radical" width="49.5%" />
-  <img alt="Yassin's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YassenAli&theme=radical" width="49.5%" />
-</a>
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/YassenAli/YassenAli/output/snake.svg" alt="Snake animation" />
-
-<!-- 3D Contribution Graph -->
-<!-- ![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg) -->
-<!-- ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg) -->
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yassin-ali-10497a252">
+  <a href="https://www.linkedin.com/in/georgeraafat/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yassinalilearning77076@gmail.com">
+  <a href="mailto:georgexraafat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/YassenAli">
+  <a href="https://github.com/5XGeorgeX5">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- <a href="https://www.hackerrank.com/profile/yassinalil">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a> -->
 </p>
 
 ---
-
-<!-- Visitors Count -->
-<div align="center">
-  <br/><p align="centre"><b>Profile Views</b></p>  
-  <p align="center">
-    <a href="https://profile-counter.glitch.me/YassenAli/count.svg">
-  <img align="center" src="https://profile-counter.glitch.me/YassenAli/count.svg" />
-      </a>
-  </p>
-  <br/>
-</div>
 
 <br/>
 
