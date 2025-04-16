@@ -21,6 +21,8 @@
 - 📫 Reach me at: [georgexraafat@gmail.com](mailto:georgexraafat@gmail.com)
 - 📄 Check my [Resume](https://github.com/5XGeorgeX5/5XGeorgeX5/blob/main/My-Resume.pdf)
 
+<br/>
+
 ## 🏆 certificates
 -  [ALX Software Engineering Program](https://intranet.alxswe.com/certificates/en8H5ZG72p)
 -  [ALX Gig-at-a-startup](https://savanna.alxafrica.com/certificates/h7mr659pEx)
