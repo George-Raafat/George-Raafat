@@ -19,7 +19,7 @@
 - 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
 - 🔍 Interested in **Problem Solving** and **Data Management**
 - 📫 Reach me at: [georgexraafat@gmail.com](mailto:georgexraafat@gmail.com)
-- 📄 Check my [Resume](https://github.com/5XGeorgeX5/5XGeorgeX5/blob/main/My-Resume.pdf)
+- 📄 Check my [Resume](https://github.com/George-Raafat/George-Raafat/blob/main/George-Resume.pdf)
 
 <br/>
 
@@ -85,12 +85,12 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=5XGeorgeX5&custom_title=George's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="George's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Raafat&custom_title=George's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="George's Activity Graph" />
 </div>
 
-<a href="https://github.com/5XGeorgeX5">
-  <img alt="George's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=5XGeorgeX5&theme=radical" width="49.5%" />
-  <img alt="George's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=5XGeorgeX5&show_icons=true&count_private=true&theme=radical" height="192px" width="49.5%"/>
+<a href="https://github.com/George-Raafat">
+  <img alt="George's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=George-Raafat&theme=radical" width="49.5%" />
+  <img alt="George's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=George-Raafat&show_icons=true&count_private=true&theme=radical" height="192px" width="49.5%"/>
 </a>
 
 ## 🤝 Connect With Me
@@ -102,7 +102,7 @@
   <a href="mailto:georgexraafat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/5XGeorgeX5">
+  <a href="https://github.com/George-Raafat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
