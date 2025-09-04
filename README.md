@@ -14,7 +14,7 @@
 
 >  Detail-oriented back-end developer with a proven track record of building scalable, secure, and efficient web applications. Skilled in designing robust APIs, managing databases, and leveraging frameworks for optimized performance, Passionate for problem-solving, learning new technologies, and driving software project success through innovation and collaboration.
 
-- 🎓 Third-year Computer Science student at **Cairo University**
+- 🎓 Fourth-year Computer Science student at **Cairo University**
 - 💻 Back End Developer with expertise in **Django**, **Spring Boot**, **Next.js**, **Node.js**, and **Nest.js** 
 - 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
 - 🔍 Interested in **Problem Solving** and **Data Management**
