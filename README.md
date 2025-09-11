@@ -19,13 +19,19 @@
 - 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
 - 🔍 Interested in **Problem Solving** and **Data Management**
 - 📫 Reach me at: [georgexraafat@gmail.com](mailto:georgexraafat@gmail.com)
-- 📄 Check my [Resume](https://github.com/George-Raafat/George-Raafat/blob/main/George-Resume.pdf)
+- 📄 Check my [Resume](https://github.com/George-Raafat/George-Raafat/blob/main/Resume/George-Resume.pdf)
 
 <br/>
 
 ## 🏆 certificates
--  [ALX Software Engineering Program](https://intranet.alxswe.com/certificates/en8H5ZG72p)
--  [ALX Gig-at-a-startup](https://savanna.alxafrica.com/certificates/h7mr659pEx)
+[ALX Software Engineering Program](https://intranet.alxswe.com/certificates/en8H5ZG72p)
+![ALX Software Engineering Program](./Certificates/ALX-certificate.png)
+
+[ALX Gig-at-a-startup](https://savanna.alxafrica.com/certificates/h7mr659pEx)
+![ALX Gig-at-a-startup](./Certificates/110-gig-at-a-startup-certificate-george-saber.png)
+
+[Rowad 2025 Back-End Development Internship](https://sprints.ai/en-eg/journeys/learning/1342/90165383/view-certificate)
+![Rowad 2025 Back-End Development Internship](./Certificates/Rowad%202025%20Back-End%20Development%20Internship.png)
 
 <br/>
 
