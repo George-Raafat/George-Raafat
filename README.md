@@ -3,46 +3,109 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+George+Raafat!;Back+End+Developer;Computer+Science+Student" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+George+Raafat!;Back-end+Software+Engineer;Backend+%E2%80%A2+Systems+%E2%80%A2+DevOps" />
 </h3>
 
 <br/>
 
 ## 🚀 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
->  Detail-oriented back-end developer with a proven track record of building scalable, secure, and efficient web applications. Skilled in designing robust APIs, managing databases, and leveraging frameworks for optimized performance, Passionate for problem-solving, learning new technologies, and driving software project success through innovation and collaboration.
+> Back-end Software Engineer based in Cairo, Egypt, building production backend systems, APIs, and data-driven applications. Experienced with **ERPNext/Frappe, Spring Boot, NestJS, relational and NoSQL databases, Docker, and CI/CD**.
 
-- 🎓 Fourth-year Computer Science student at **Cairo University**
-- 💻 Back End Developer with expertise in **Django**, **Spring Boot**, **Next.js**, **Node.js**, and **Nest.js** 
-- 🌱 Currently focusing on **Data Engineering** and **Web Technologies**
-- 🔍 Interested in **Problem Solving** and **Data Management**
+- 🎓 B.Sc. in Computer Science from **Cairo University** — **GPA: 3.81/4.0**
+- 💼 Software Engineer at **Appy Innovate**, working with **ERPNext/Frappe and DevOps**
+- 🔧 Experienced in **REST APIs, database design, Docker, Nginx, and GitHub Actions**
+- 🚀 Interested in **backend engineering, scalable systems, and software architecture**
 - 📫 Reach me at: [georgexraafat@gmail.com](mailto:georgexraafat@gmail.com)
 - 📄 Check my [Resume](https://github.com/George-Raafat/George-Raafat/blob/main/Resume/George-Resume.pdf)
 
 <br/>
 
-## 🏆 certificates
-- [ALX Software Engineering Program](https://intranet.alxswe.com/certificates/en8H5ZG72p)
-- [ALX Gig-at-a-startup](https://savanna.alxafrica.com/certificates/h7mr659pEx)
-- [Rowad 2025 Back-End Development Internship](https://sprints.ai/en-eg/journeys/learning/1342/90165383/view-certificate)
+## 💼 Experience
+
+### Software Engineer — Appy Innovate
+
+**Apr 2026 – Present · Remote**
+
+- Develop and maintain production **ERPNext/Frappe** ERP systems.
+- Extend and stabilize an existing ERPNext codebase with custom modules, business features, and validations.
+- Contributed to the **ERPNext v15 → v16** upgrade and resolved compatibility issues.
+- Designed containerized deployment environments using **Docker and Nginx**.
+- Automated VPS deployments using **GitHub Actions and SSH**.
+- Improve the reliability, maintainability, and performance of production deployments.
+
+### Back-end Development Intern — Banque Misr
+
+**Jul 2025 – Aug 2025 · Hybrid**
+
+- Developed backend applications using **Spring Boot, JWT, MySQL, and MongoDB**.
+- Implemented automated testing and containerized applications with Docker.
+
+### Back-end Developer — NCI / ALX Ventures
+
+**Sep 2024 – Nov 2024 · Remote**
+
+- Built and deployed a scalable inventory-management API using **NestJS and MongoDB**.
+- Implemented a multi-tenant database architecture for client data isolation.
+
+## 🚀 Featured Projects
+
+### 🧠 SmartGallery
+
+**Team Lead & System Architect · Kotlin · Jetpack Compose · MVVM · ONNX Runtime**
+
+Private, fully offline Android gallery application with semantic, face, and OCR search.
+
+- Led a **5-member team** and designed the application architecture.
+- Converted MobileCLIP2-S0 to ONNX and reduced the text encoder from **224 MB to 61 MB**.
+- Implemented fully offline **semantic, face, and OCR search**.
+- Indexed **1,000 images in approximately 15 minutes**.
+
+🔗 [Repository](https://github.com/y0riii/Smart-gallery)
+
+### 📚 Learning Management System
+
+**Backend Developer · Spring Boot · PostgreSQL · Cloudinary**
+
+Backend platform for managing courses, lessons, and assessments.
+
+- Designed normalized relational database schemas.
+- Built backend functionality using Spring Boot.
+- Integrated Cloudinary for media management.
+
+🔗 [Repository](https://github.com/Ahmed99125/LMS)
+
+### 🎨 Doodles
+
+**Full-Stack Developer · Next.js · React · Prisma · MongoDB**
+
+Drawing-sharing web application with authentication, database persistence, and image storage.
+
+- Implemented authentication with NextAuth.
+- Designed database access using Prisma and MongoDB.
+- Integrated Cloudinary for image storage.
+
+🔗 [Repository](https://github.com/Mennatalla-Khougha/doodles)
 
 <br/>
 
 ## 🛠️ Technical Skills
 
 <details>
-<summary>Programming Languages</summary>
+<summary>Backend & Programming</summary>
 <br/>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 </details>
 
@@ -50,11 +113,13 @@
 <summary>Frameworks</summary>
 <br/>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </details>
 
@@ -62,28 +127,43 @@
 <summary>Databases</summary>
 <br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
 <details>
-<summary>Tools & Platforms</summary>
+<summary>DevOps & Tools</summary>
 <br/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 </details>
 
-<br/>
+## 🎓 Education
+
+**Cairo University — Faculty of Computers & Artificial Intelligence**
+
+**B.Sc. in Computer Science** · **GPA: 3.81/4.0**
+Oct 2022 – Jun 2026
+
+## 🏆 Certifications
+
+- [Rowad 2025 — Back-End Development](https://sprints.ai/en-eg/journeys/learning/1342/90165383/view-certificate) · Banque Misr / Sprints · Sep 2025
+- [Gig-at-a-Startup](https://savanna.alxafrica.com/certificates/h7mr659pEx) · ALX Ventures · Nov 2024
+- [Full Stack Software Engineering](https://intranet.alxswe.com/certificates/en8H5ZG72p) · ALX Africa · Apr 2024
 
 ## 📊 GitHub Stats
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Raafat&custom_title=George's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="George's Activity Graph" />
@@ -109,10 +189,6 @@
 </p>
 
 ---
-
-<br/>
-
-⭐️ If you like this profile template and want to modify it for yourself, please leave a star!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
