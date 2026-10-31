@@ -14,43 +14,65 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-> Backend Software Engineer based in Cairo, Egypt, building production backend systems, APIs, and data-driven applications. Experienced with **ERPNext/Frappe, Spring Boot, NestJS, relational and NoSQL databases, Docker, and CI/CD**.
+Software Engineer based in Cairo, Egypt, experienced in developing production ERP systems, scalable backend applications, and deployment infrastructure. Focused on **ERPNext/Frappe, backend engineering, DevOps, and system integration**.
 
 - 🎓 B.Sc. in Computer Science from **Cairo University** — **GPA: 3.81/4.0**
-- 💼 Software Engineer at **Appy Innovate**, working with **ERPNext/Frappe and DevOps**
-- 🔧 Experienced in **REST APIs, database design, Docker, Nginx, and GitHub Actions**
-- 🚀 Interested in **backend engineering, scalable systems, and software architecture**
+- 💼 Software Engineer at **Appy Innovate**, developing production ERPNext solutions.
+- 🏢 Freelance Software Engineer at **Aehter**, delivering customized Frappe HR solutions.
+- ⚙️ Experienced in **REST APIs, ERP customization, database design, and multi-tenant architectures**.
+- 🐳 Hands-on experience with **Docker, Proxmox, Cloudflare, Nginx Proxy Manager, and self-hosted infrastructure**.
+- 🤖 Interested in **AI integration, scalable systems, software architecture, and automation**.
 - 📫 Reach me at: [georgexraafat@gmail.com](mailto:georgexraafat@gmail.com)
+- 🌐 Portfolio: [george-raafat.github.io/George-Portfolio](https://george-raafat.github.io/George-Portfolio)
 - 📄 Check my [Resume](https://github.com/George-Raafat/George-Raafat/blob/main/Resume/George-Resume.pdf)
 
 <br/>
 
 ## 💼 Experience
 
-### Software Engineer — Appy Innovate
+### Software Engineer (Backend & ERPNext) — Appy Innovate
 
 **Apr 2026 – Present · Remote**
 
-- Develop and maintain production **ERPNext/Frappe** ERP systems.
-- Extend and stabilize an existing ERPNext codebase with custom modules, business features, and validations.
-- Contributed to the **ERPNext v15 → v16** upgrade and resolved compatibility issues.
-- Designed containerized deployment environments using **Docker and Nginx**.
-- Automated VPS deployments using **GitHub Actions and SSH**.
-- Improve the reliability, maintainability, and performance of production deployments.
+- Built a **catch-weight module** integrating hardware scales and raw ZPL barcode printing, automating POS scans and reducing manual operation time by approximately **80%**.
+- Implemented **Phase 2 ZATCA e-invoicing**, automating the submission of approximately **75 daily production invoices** and generating comprehensive VAT reports.
+- Customized POS logic to enforce conditional pricing and scanning rules, and developed multi-user acknowledgment workflows for secure stock transfers.
+- Identified and patched a core ERPNext bug, resolving inaccurate valuation and COGS calculations.
+- Established deployment infrastructure using **Proxmox VMs and Docker**, automating wildcard SSL generation through Nginx Proxy Manager and Cloudflare DNS.
+- Deployed and maintained self-hosted enterprise platforms, including **Keycloak, OAuth2-proxy, Huly, and Moodle**.
+- Integrated local LLMs (**Qwen3 via Ollama**) to support AI-assisted developer workflows.
 
-### Backend Development Intern — Banque Misr
+### Freelance Software Engineer (ERPNext & DevOps) — Aehter
 
-**Jul 2025 – Aug 2025 · Hybrid**
+**Jul 2026 – Sep 2026 · Remote**
 
-- Developed backend applications using **Spring Boot, JWT, MySQL, and MongoDB**.
-- Implemented automated testing and containerized applications with Docker.
+- Consulted with stakeholders to translate business requirements into technical solutions, delivering a fully white-labeled **Frappe HR ERP system**.
+- Developed a custom **Disciplinary Action module**, covering reports, investigations, and appeals.
+- Built dynamic analytics reports to track HR metrics and workflows.
+- Localized employee data models to support **Egyptian compliance requirements**.
+- Managed end-to-end Docker deployment on a Hostinger VPS using Cloudflare and Nginx Proxy Manager.
 
 ### Backend Developer — NCI / ALX Ventures
 
 **Sep 2024 – Nov 2024 · Remote**
 
 - Built and deployed a scalable inventory-management API using **NestJS and MongoDB**.
-- Implemented a multi-tenant database architecture for client data isolation.
+- Implemented a **multi-tenant database architecture** to ensure client data isolation and streamline data management.
+
+### Backend Development Intern — Banque Misr
+
+**Jul 2025 – Aug 2025 · Hybrid**
+
+- Developed secure backend applications using **Spring Boot, JWT, MySQL, and MongoDB**.
+- Implemented automated testing and containerized applications using **Docker**.
+
+### Software Engineering Intern — ALX Africa
+
+**Feb 2023 – Apr 2024 · Remote**
+
+- Completed a 12-month software engineering program specializing in backend development.
+- Developed full-stack applications while designing relational and NoSQL database architectures.
+- Applied Linux, Git, Agile workflows, and test-driven development in collaborative software projects.
 
 ## 🚀 Featured Projects
 
@@ -58,11 +80,13 @@
 
 **Team Lead & System Architect · Kotlin · Jetpack Compose · MVVM · ONNX Runtime**
 
-Private, fully offline Android gallery application with semantic, face, and OCR search.
+AI-powered, fully offline Android gallery application featuring semantic, face, and OCR search.
 
-- Led a **5-member team** and designed the application architecture.
-- Converted MobileCLIP2-S0 to ONNX and reduced the text encoder from **224 MB to 61 MB**.
-- Implemented fully offline **semantic, face, and OCR search**.
+- Led a **5-member team** developing the graduation project.
+- Designed the application's **MVVM architecture**.
+- Implemented semantic search and image indexing.
+- Converted MobileCLIP2-S0 to ONNX, reducing the text encoder size from **224 MB to 61 MB**.
+- Enabled fully offline semantic, face, and OCR search.
 - Indexed **1,000 images in approximately 15 minutes**.
 
 🔗 [Repository](https://github.com/y0riii/Smart-gallery)
@@ -73,19 +97,20 @@ Private, fully offline Android gallery application with semantic, face, and OCR 
 
 Backend platform for managing courses, lessons, and assessments.
 
+- Built a course-management platform using Spring Boot and PostgreSQL.
 - Designed normalized relational database schemas.
-- Built backend functionality using Spring Boot.
 - Integrated Cloudinary for media management.
 
 🔗 [Repository](https://github.com/Ahmed99125/LMS)
 
 ### 🎨 Doodles
 
-**Full-Stack Developer · Next.js · React · Prisma · MongoDB**
+**Full-Stack Developer · Next.js · React · Prisma · MongoDB · NextAuth**
 
-Drawing-sharing web application with authentication, database persistence, and image storage.
+Drawing-sharing web application with authentication and persistent image storage.
 
-- Implemented authentication with NextAuth.
+- Developed a full-stack drawing-sharing application.
+- Implemented authentication using NextAuth.
 - Designed database access using Prisma and MongoDB.
 - Integrated Cloudinary for image storage.
 
@@ -99,13 +124,13 @@ Drawing-sharing web application with authentication, database persistence, and i
 <summary>Backend & Programming</summary>
 <br/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </details>
 
@@ -113,25 +138,28 @@ Drawing-sharing web application with authentication, database persistence, and i
 <summary>Frameworks</summary>
 <br/>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 </details>
 
 <details>
-<summary>Databases</summary>
+<summary>Databases & ORMs</summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 </details>
 
@@ -140,13 +168,24 @@ Drawing-sharing web application with authentication, database persistence, and i
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</details>
+
+<details>
+<summary>Web Technologies</summary>
+<br/>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </details>
 
@@ -154,7 +193,8 @@ Drawing-sharing web application with authentication, database persistence, and i
 
 **Cairo University — Faculty of Computers & Artificial Intelligence**
 
-**B.Sc. in Computer Science** · **GPA: 3.81/4.0**
+B.Sc. in Computer Science · **GPA: 3.81/4.0**
+
 Oct 2022 – Jun 2026
 
 ## 🏆 Certifications
