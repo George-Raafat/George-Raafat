@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+George+Raafat!;Back-end+Software+Engineer;Backend+%E2%80%A2+Systems+%E2%80%A2+DevOps" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+George+Raafat!;Backend+Software+Engineer;Backend+%E2%80%A2+ERP+Systems+%E2%80%A2+DevOps" />
 </h3>
 
 <br/>
@@ -14,7 +14,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-> Back-end Software Engineer based in Cairo, Egypt, building production backend systems, APIs, and data-driven applications. Experienced with **ERPNext/Frappe, Spring Boot, NestJS, relational and NoSQL databases, Docker, and CI/CD**.
+> Backend Software Engineer based in Cairo, Egypt, building production backend systems, APIs, and data-driven applications. Experienced with **ERPNext/Frappe, Spring Boot, NestJS, relational and NoSQL databases, Docker, and CI/CD**.
 
 - 🎓 B.Sc. in Computer Science from **Cairo University** — **GPA: 3.81/4.0**
 - 💼 Software Engineer at **Appy Innovate**, working with **ERPNext/Frappe and DevOps**
@@ -38,14 +38,14 @@
 - Automated VPS deployments using **GitHub Actions and SSH**.
 - Improve the reliability, maintainability, and performance of production deployments.
 
-### Back-end Development Intern — Banque Misr
+### Backend Development Intern — Banque Misr
 
 **Jul 2025 – Aug 2025 · Hybrid**
 
 - Developed backend applications using **Spring Boot, JWT, MySQL, and MongoDB**.
 - Implemented automated testing and containerized applications with Docker.
 
-### Back-end Developer — NCI / ALX Ventures
+### Backend Developer — NCI / ALX Ventures
 
 **Sep 2024 – Nov 2024 · Remote**
 
@@ -159,15 +159,11 @@ Oct 2022 – Jun 2026
 
 ## 🏆 Certifications
 
-- [Rowad 2025 — Back-End Development](https://sprints.ai/en-eg/journeys/learning/1342/90165383/view-certificate) · Banque Misr / Sprints · Sep 2025
+- [Rowad 2025 — Backend Development](https://sprints.ai/en-eg/journeys/learning/1342/90165383/view-certificate) · Banque Misr / Sprints · Sep 2025
 - [Gig-at-a-Startup](https://savanna.alxafrica.com/certificates/h7mr659pEx) · ALX Ventures · Nov 2024
 - [Full Stack Software Engineering](https://intranet.alxswe.com/certificates/en8H5ZG72p) · ALX Africa · Apr 2024
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=George-Raafat&custom_title=George's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="George's Activity Graph" />
-</div>
 
 <a href="https://github.com/George-Raafat">
   <img alt="George's Stats by Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=George-Raafat&theme=radical" width="49.5%" />
