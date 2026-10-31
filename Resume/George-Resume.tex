@@ -4,7 +4,9 @@
 \moderncvcolor{blue}
 \moderncvstyle{banking}
 
-\usepackage[margin=0.9cm]{geometry}
+\usepackage[margin=1cm]{geometry}
+
+\nopagenumbers
 
 \colorlet{firstnamecolor}{color1}
 \colorlet{familynamecolor}{color1}
@@ -23,57 +25,70 @@
 
 \makecvtitle
 
-\vspace{-2.7em}
+\vspace{-1.5em}
 
 \begin{center}
-{\LARGE \textbf{Back-end Software Engineer}}
+{\LARGE \textbf{Software Engineer}}\\[0.35em]
+{\normalsize
+Backend \textbar{}
+DevOps \textbar{}
+ERPNext \& Frappe
+}
 \end{center}
 
-\vspace{-2.3em}
+\vspace{-1em}
 %------------------------------------------------------------------------------
 \section{Summary}
 Software Engineer with experience developing production ERP systems and scalable backend applications. Skilled in REST APIs, database design, Docker, and collaborative development.
 
-\vspace{-1em}
 %------------------------------------------------------------------------------
 \section{Education}
 \cventry{10/2022 -- 06/2026}{B.Sc. in Computer Science - GPA: 3.81/4.0}{Cairo University}{Faculty of Computers \& Artificial Intelligence}{}{}
 
-\vspace{-1em}
 %------------------------------------------------------------------------------
 \section{Experience}
 
 \cventry{04/2026 -- Present}{Software Engineer (Backend \& ERPNext)}{Appy Innovate}{Remote}{}{
 \begin{itemize}
 \item Built a catch-weight module integrating hardware scales and raw ZPL barcode printing, automating POS scans and reducing manual operation time by $\sim$80\%.
-\item Implemented Phase 2 ZATCA e-invoicing using permission hooks to automatically submit $\sim$75 daily production invoices and generate comprehensive VAT reports.
+\item Implemented Phase 2 ZATCA e-invoicing to automatically submit $\sim$75 daily production invoices and generate comprehensive VAT reports.
 \item Customized POS logic to enforce conditional pricing and scanning rules, and created multi-user acknowledgment workflows for secure stock transfers.
 \item Discovered and patched a core ERPNext bug, resolving inaccurate valuation and COGS calculations.
 \item Set up deployment infrastructure using Proxmox VMs and Docker, automating wildcard SSL generation via Nginx Proxy Manager and Cloudflare DNS.
-\item Configured self-hosted tools including Ollama (for local LLMs) and Keycloak.
+\item Deployed and maintained self-hosted enterprise ecosystems (Keycloak with OAuth2-proxy for SSO, Huly, Moodle) and integrated local LLMs (Qwen3 via Ollama) to power AI-assisted developer workflows.
 \end{itemize}
 }
 
-\cventry{07/2025 -- 08/2025}{Back-end Development Intern}{Banque Misr}{Hybrid}{}{
+\cventry{07/2026 -- 09/2026}{Freelance Software Engineer (ERPNext \& DevOps)}{Aehter}{Remote}{}{
 \begin{itemize}
-\item Developed secure backend applications using Spring Boot, JWT, MySQL, and MongoDB.
-\item Implemented automated testing and containerized applications with Docker.
+\item Consulted with stakeholders to realign the client's requirements with development, delivering a fully white-labeled Frappe HR ERP system.
+\item Engineered a custom Disciplinary Action module (reports, investigations, appeals) alongside dynamic analytics reports to track HR metrics and workflows.
+\item Localized employee data models for Egyptian compliance.
+\item Managed end-to-end Docker deployment on a Hostinger VPS using Cloudflare and NPM.
 \end{itemize}}
 
-\cventry{09/2024 -- 11/2024}{Back-end Developer}{NCI (via ALX Ventures)}{Remote}{}{
+\cventry{09/2024 -- 11/2024}{Backend Developer}{NCI (via ALX Ventures)}{Remote}{}{
 \begin{itemize}
   \item Built and deployed a scalable API for an inventory management SaaS (Nest.js, MongoDB).
   \item Implemented multi-tenant database architecture to streamline client data management.
 \end{itemize}}
 
+%------------------------------------------------------------------------------
+\section{Training \& Certifications}
+
+\cventry{07/2025 -- 08/2025}{Backend Development Intern}{Banque Misr}{Hybrid}{}{
+\begin{itemize}
+\item Developed secure backend applications using Spring Boot, JWT, MySQL, and MongoDB.
+\item Implemented automated testing and containerized applications with Docker.
+\end{itemize}}
+
 \cventry{02/2023 -- 04/2024}{Software Engineering Intern}{ALX Africa}{Remote}{}{
 \begin{itemize}
-\item Completed a 12-month software engineering program specializing in back-end development.
+\item Completed a 12-month software engineering program specializing in backend development.
 \item Developed full-stack web applications while designing relational and NoSQL databases using modern backend frameworks.
 \item Applied Linux, Git, agile workflows, and test-driven development in collaborative software projects.
 \end{itemize}}
 
-\vspace{-1em}
 %------------------------------------------------------------------------------
 \section{Projects}
 
@@ -96,7 +111,6 @@ Software Engineer with experience developing production ERP systems and scalable
   \item Implemented authentication, optimized the database, and set up image storage with Cloudinary.
 \end{itemize}}
 
-\vspace{-1em}
 %------------------------------------------------------------------------------
 \section{Skills}
 \cvitem{Programming Languages}{Python, JavaScript/TypeScript, Java, Kotlin, C, C++, HTML, CSS}
